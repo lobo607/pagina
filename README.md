@@ -1,1 +1,21 @@
-# pagina
+<html>
+ <head>
+  <title> frames 209 SofiaMichelle </title>
+</head>
+  <frameset rows="100,*">
+    <frame id="frmsuperior" name="frmsuperior" src="file:///C:/Users/maria/Downloads/Nuevo%20Documento%20de%20texto%20(2).html"/>
+  <frameset cols="150,*">
+    <frame id="frmizquierda" name="frmizquierda" src="file:///C:/Users/maria/Documents/izquierda.html"/>
+    <frame id="frmcuerpo" name="frmcuerpo" src="file:///C:/Users/maria/Documents/Nuevo%20Documento%20de%20texto.html">
+   </frameset>
+  <noframes>
+  <body>
+  <bgcolor="#D9C7B9">
+  <br><br><br><br><br><br>
+
+
+  </body>
+  </noframes>
+
+ </frameset>
+</html>
